@@ -20,8 +20,8 @@
 **Unidade** | **AV 2**
 Lista Circular usando Vetor | -
 Lista Circular usando encadeamento | -
-[Pilha](EstudoDirigido/EstudoDirigido-Pilha.pdf) | 23/08/2021
-[Fila](EstudoDirigido/EstudoDirigido-Fila.pdf) | 27/08/2021
+[Pilha](EstudoDirigido/EstudoDirigido-Pilha.pdf) | -
+[Fila](EstudoDirigido/EstudoDirigido-Fila.pdf) | -
 
 **Avaliação** | **AV 1**
 **Avaliação** | **AV 2**
