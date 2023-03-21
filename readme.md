@@ -16,14 +16,15 @@
 [Listas](EstudoDirigido/EstudoDirigido-03-Lista.pdf) | -
 [Listas Simplesmente Encadeada](EstudoDirigido/ListaSimplesEnc.pdf) | -
 [Listas Duplamente Encadeada](EstudoDirigido/ListaDuplamenteEnc.pdf) | -
-**Avaliação** | **AV 1**
-[Listas Simplesmente Encadeada Ordenada](EstudoDirigido/EstudoDirigido-2021.1-ListaSimplesEnc.pdf) | 10.0 (entrega dia 28/07/2021)
+[Listas Simplesmente Encadeada Ordenada](EstudoDirigido/EstudoDirigido-2021.1-ListaSimplesEnc.pdf) | -  
 **Unidade** | **AV 2**
 Lista Circular usando Vetor | -
 Lista Circular usando encadeamento | -
 [Pilha](EstudoDirigido/EstudoDirigido-Pilha.pdf) | 23/08/2021
 [Fila](EstudoDirigido/EstudoDirigido-Fila.pdf) | 27/08/2021
 
+**Avaliação** | **AV 1**
+**Avaliação** | **AV 2**
 
 
 ## Material de referência
