@@ -12,6 +12,7 @@
 |Nome | valor |
 |---|:---:|
 **Unidade 1** | **-**
+[Exercício de revisão de POO](EstudoDirigido/RevisaoPOO/revisao.md) | - 
 [Algoritmos de ordenação](EstudoDirigido/EstudoDirigidoAlgoritmoOrd2020.2.pdf) | -
 [Listas](EstudoDirigido/EstudoDirigido-03-Lista.pdf) | -
 [Listas Simplesmente Encadeada](EstudoDirigido/ListaSimplesEnc.pdf) | -
