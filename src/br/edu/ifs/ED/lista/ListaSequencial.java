@@ -57,4 +57,9 @@ public class ListaSequencial<T extends Comparable<T>> extends Lista<T>{
     public boolean contem(T elemento) throws Exception {
         throw new Exception("Método não implementado.");
     }
+
+    @Override
+    public Lista<T> subLista(int posInicial, int posFinal) throws Exception {
+        return null;
+    }
 }

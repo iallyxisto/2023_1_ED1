@@ -51,4 +51,9 @@ public class ListaEnc<T extends Comparable<T>> extends Lista<T> {
         throw new Exception("Não implementado");
     }
 
+    @Override
+    public Lista<T> subLista(int posInicial, int posFinal) throws Exception {
+        return null;
+    }
+
 }
